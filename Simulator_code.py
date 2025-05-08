@@ -13,7 +13,7 @@ import math
 # Firebase Realtime Database URL
 DATABASE_URL = "https://jbdb-21-default-rtdb.europe-west1.firebasedatabase.app/"
 # Firebase Authentication API URL
-FIREBASE_AUTH_URL = "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyBHoJxdF3YBoFTcDRbZX3iqfYNIBNTFM7s"
+FIREBASE_AUTH_URL = "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=key"
 
 #set up wifi cred
 WIFI_SSID = "MetroWest-WiFi" #Wifi SSID
