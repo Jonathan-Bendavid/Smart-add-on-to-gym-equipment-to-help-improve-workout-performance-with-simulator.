@@ -11,13 +11,13 @@ import math
 
 
 # Firebase Realtime Database URL
-DATABASE_URL = "https://jbdb-21-default-rtdb.europe-west1.firebasedatabase.app/"
+DATABASE_URL = "URL"
 # Firebase Authentication API URL
-FIREBASE_AUTH_URL = "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=key"
+FIREBASE_AUTH_URL = "APi url with key"
 
 #set up wifi cred
-WIFI_SSID = "MetroWest-WiFi" #Wifi SSID
-WIFI_PASSWORD = "Mor444562" #Wifi Password 
+WIFI_SSID = "" #Wifi SSID
+WIFI_PASSWORD = "" #Wifi Password 
 
 
 #define Username, default as unknown
